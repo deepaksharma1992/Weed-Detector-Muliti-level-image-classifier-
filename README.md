@@ -32,5 +32,22 @@ Matplotlib,
 InceptionV3 Transfer Learning Model
 
 
+![Importing Data and Packages](https://github.com/deepaksharma1992/Weed-Detector-Muliti-level-image-classifier-/blob/master/1_weed.PNG)
+![Creating Directories and spliting training and testing data](https://github.com/deepaksharma1992/Weed-Detector-Muliti-level-image-classifier-/blob/master/2_weed.PNG)
+![Creating transfer learning model](https://github.com/deepaksharma1992/Weed-Detector-Muliti-level-image-classifier-/blob/master/3_weed.PNG)
+![Showing data images](https://github.com/deepaksharma1992/Weed-Detector-Muliti-level-image-classifier-/blob/master/4_weed.PNG)
+![Training data](https://github.com/deepaksharma1992/Weed-Detector-Muliti-level-image-classifier-/blob/master/5_training_model.PNG)
+![Plotting training testing accuracy](https://github.com/deepaksharma1992/Weed-Detector-Muliti-level-image-classifier-/blob/master/6_plotting_graph.PNG)
+![Prediction result](https://github.com/deepaksharma1992/Weed-Detector-Muliti-level-image-classifier-/blob/master/7_predict_output.PNG)
+![Prediction result](https://github.com/deepaksharma1992/Weed-Detector-Muliti-level-image-classifier-/blob/master/8_predict_output.PNG)
+
+
+
+
+
+
+
+
+
 
 
